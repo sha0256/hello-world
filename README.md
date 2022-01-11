@@ -1,5 +1,4 @@
 # hello-world
 my first repository
-זהו ניסיון ראשון של עבודה עם הסתעפיות
-זוהי הסתעפות מספר אחד שאמורה להתחבר בסופו של דבר ל:
-main
+
+this is the first branch that will merge to the main at the end
